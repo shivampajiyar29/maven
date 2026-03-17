@@ -1,1 +1,2 @@
-project.txt
+# hello-maven
+# hello-maven
